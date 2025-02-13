@@ -1,17 +1,17 @@
-# Facial Health Analyzer 🏥💻  
+# VitalGaze---AI-Based-Facial-Toxication-Skin-Analysis 🏥💻  
 _A real-time facial health assessment tool using OpenCV, MediaPipe, and AI._
 
 ---
 
 ## 📌 Overview
-Facial Health Analyzer is a Python-based application that detects various facial health indicators, including:
+VitalGaze---AI-Based-Facial-Toxication-Skin-Analysis is a Python-based application that detects various facial health indicators, including:
 
-✅ **Pimples & Skin Redness** – Analyzes skin conditions using image processing  
-✅ **Eye Droopiness** – Identifies tiredness and potential drowsiness  
-✅ **Toxication Detection** – Detects signs of intoxication based on redness and eye openness  
-✅ **Real-time Analysis** – Capture live images via webcam and get instant results  
+✅ **Pimples & Skin Redness** – Utilizes image processing to assess skin health 
+✅ **Eye Droopiness** – Detects signs of fatigue and potential drowsiness  
+✅ **Toxication Detection** – Analyzes eye openness and facial redness to determine possible intoxication 
+✅ **Live Webcam Monitoring** – Provides instant results through real-time facial analysis
 
-Built using `OpenCV`, `MediaPipe`, `Tkinter`, and `NumPy`, this tool provides a user-friendly interface for analyzing facial health.
+This application is developed using `OpenCV`, `MediaPipe`, `Tkinter`, and `NumPy`, featuring an interactive and easy-to-use interface.
 
 ---
 
@@ -23,18 +23,18 @@ Built using `OpenCV`, `MediaPipe`, `Tkinter`, and `NumPy`, this tool provides a 
 ---
 
 ## 🚀 Features
-✔️ **Real-time facial analysis** using live webcam capture  
-✔️ **User-friendly UI** to display health indicators visually  
-✔️ **Image Processing** for detecting skin conditions and eye health  
-✔️ **AI-based toxication detection** based on redness and droopiness  
+✔️ **Live facial analysis via webcam** 
+✔️  **Simple and intuitive UI for displaying health indicators** 
+✔️ **Image processing for detecting skin and eye conditions** 
+✔️ **AI-based intoxication detection through facial redness and eye analysis** 
 
 ---
 
 ## 📂 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Facial-Health-Analyzer.git
-cd Facial-Health-Analyzer
+git clone https://github.com/your-username/VitalGaze---AI-Based-Facial-Toxication-Skin-Analysis.git
+cd VitalGaze---AI-Based-Facial-Toxication-Skin-Analysis
 ```
 
 ### 2️⃣ Install Dependencies
@@ -55,33 +55,33 @@ python main.py
 ## 📜 Code Structure
 ```
 📂 Facial-Health-Analyzer
-│── main.py                # Main application script
-│── download_landmarks.py  # Downloads required ML model
-│── requirements.txt       # List of dependencies
+│── main.py                # Core script handling application logic
+│── download_landmarks.py  # Fetches required ML model
+│── requirements.txt       # Lists necessary dependencies
 │── README.md              # Project Documentation
-│── analysis_results/      # Stores analyzed images
+│── analysis_results/      # Stores analyzed images for reference
 ```
 
 ---
 
 ## 💡 Future Enhancements
-- [ ] Improve **toxication detection** accuracy with ML models  
-- [ ] Add **age and gender detection**  
-- [ ] Implement **historical data tracking**  
+🔹 Enhance intoxication detection accuracy with improved ML models  
+🔹 Incorporate age and gender recognition features
+🔹 Introduce historical data tracking for better analysis
 
 ---
 
 ## 🤝 Contributing
-Contributions are welcome! Please follow these steps:  
+Want to contribute? Follow these steps:  
 1. Fork this repository 🍴  
-2. Create a new branch (`feature-xyz`)  
-3. Commit your changes (`git commit -m "Added xyz feature"`)  
-4. Push to the branch (`git push origin feature-xyz`)  
-5. Create a **Pull Request** 📬  
+2. Create a feature branch (`feature-name`)  
+3. Commit modifications (`git commit -m "Added name feature"`)  
+4. Push to the branch (`git push origin feature-name`)  
+5. Submit a **Pull Request** 📬  
 
 ---
 
 
 ## 🙋 Contact
-📧 guptachirag57@gmail.com  
-🌎 [LinkedIn]([https://www.linkedin.com/in/chirag-gupta/](https://www.linkedin.com/in/chirag-gupta-20640b24a/])  
+📧 rishiraj.xd@gmail.com 
+🌎 [LinkedIn]([www.linkedin.com/in/rishi-raj2710])  
