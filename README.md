@@ -1,5 +1,4 @@
-# VitalGaze---AI-Based-Facial-Toxication-Skin-Analysis
-🏥💻  
+# Facial Health Analyzer 🏥💻  
 _A real-time facial health assessment tool using OpenCV, MediaPipe, and AI._
 
 ---
@@ -34,23 +33,20 @@ Built using `OpenCV`, `MediaPipe`, `Tkinter`, and `NumPy`, this tool provides a 
 ## 📂 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/VitalGaze---AI-Based-Facial-Toxication-Skin-Analysis.git
-cd VitalGaze---AI-Based-Facial-Toxication-Skin-Analysis
-
+git clone https://github.com/your-username/Facial-Health-Analyzer.git
+cd Facial-Health-Analyzer
 ```
 
 ### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
-```
 
-### 3️⃣ Download Facial Landmark Model
-```bash
+3️⃣ Download Facial Landmark Model
+
 python download_landmarks.py
-```
 
-### 4️⃣ Run the Application
-```bash
+4️⃣ Run the Application
+
 python main.py
 ```
 
@@ -87,5 +83,5 @@ Contributions are welcome! Please follow these steps:
 
 
 ## 🙋 Contact
-📧 rishiraj.xd@gmail.com 
-🌎 [LinkedIn]([www.linkedin.com/in/rishi-raj2710])
+📧 guptachirag57@gmail.com  
+🌎 [LinkedIn]([https://www.linkedin.com/in/chirag-gupta/](https://www.linkedin.com/in/chirag-gupta-20640b24a/])  
