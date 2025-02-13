@@ -85,3 +85,8 @@ Want to contribute? Follow these steps:
 ## 🙋 Contact
 📧 rishiraj.xd@gmail.com 
 🌎 [LinkedIn]([www.linkedin.com/in/rishi-raj2710])  
+
+
+⭐ Support the Project
+
+If you find this tool useful, consider giving it a star ⭐!
