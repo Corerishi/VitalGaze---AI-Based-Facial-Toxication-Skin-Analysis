@@ -1,4 +1,4 @@
-Facial Health Analyzer 🏥💻
+ VitalGaze---AI-Based-Facial-Toxication-Skin-Analysis🏥💻
 
 A Python-based real-time tool for assessing facial health using AI and image processing.
 
